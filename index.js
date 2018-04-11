@@ -8,7 +8,7 @@
 //Call in the Alexa SDK
 const Alexa = require('alexa-sdk');
 //Define the App ID in the Alexa Developer Console.
-const APP_ID = "amzn1.ask.skill.f3153d59-7b2f-4f54-9c59-e07910bbc21b"
+const APP_ID = "APP ID HERE"
 
 const handlers = {
      
